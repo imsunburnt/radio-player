@@ -1,17 +1,17 @@
 [
   {
-    "drawable": "station_deep_nuggets", 
-    "imagePath": "station_deep_nuggets.png", 
-    "name": "Deep Nuggets", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://192.111.140.11:8181/stream"
-  }, 
-  {
     "drawable": "station_radio_paradise", 
     "imagePath": "station_radio_paradise.png", 
     "name": "Radio Paradise", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
     "stream": "http://stream-dc1.radioparadise.com/aac-320"
+  }, 
+  {
+    "drawable": "station_deep_nuggets", 
+    "imagePath": "station_deep_nuggets.png", 
+    "name": "Deep Nuggets", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "stream": "http://192.111.140.11:8181/stream"
   }, 
   {
     "drawable": "station_birch_street_radio", 

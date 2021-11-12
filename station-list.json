@@ -7,6 +7,13 @@
     "stream": "http://stream-dc1.radioparadise.com/aac-320"
   }, 
   {
+    "drawable": "station_radio_paradise_rock_mix", 
+    "imageFilename": "station_radio_paradise_rock_mix.png", 
+    "name": "Radio Paradise Rock Mix", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://stream.radioparadise.com/rock-320"
+  }, 
+  {
     "drawable": "station_deep_nuggets", 
     "imageFilename": "station_deep_nuggets.png", 
     "name": "Deep Nuggets", 

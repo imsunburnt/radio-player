@@ -21,6 +21,34 @@
     "stream": "http://us5.internet-radio.com:8166/stream"
   }, 
   {
+    "drawable": "station_classic_rock_tampa_bay", 
+    "imageFilename": "station_classic_rock_tampa_bay.png", 
+    "name": "Classic Rock Tampa Bay", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://us1.internet-radio.com:8195/stream"
+  }, 
+  {
+    "drawable": "station_classic_rock_miami", 
+    "imageFilename": "station_classic_rock_miami.png", 
+    "name": "Classic Rock Miami", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://uk2.internet-radio.com:8054/stream"
+  }, 
+  {
+    "drawable": "station_classic_rock_planet", 
+    "imageFilename": "station_classic_rock_planet.png", 
+    "name": "Classic Rock Planet", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://us5.internet-radio.com:8279/stream"
+  }, 
+  {
+    "drawable": "station_wlcy_fun_radio", 
+    "imageFilename": "station_wlcy_fun_radio.png", 
+    "name": "WLCY Fun Radio", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://us1.internet-radio.com:8122/stream"
+  }, 
+  {
     "drawable": "station_deep_nuggets", 
     "imageFilename": "station_deep_nuggets.png", 
     "name": "Deep Nuggets", 

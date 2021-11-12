@@ -28,7 +28,6 @@
     "stream": "http://us1.internet-radio.com:8195/stream"
   }, 
   {
-  {
     "drawable": "station_classic_rock_planet", 
     "imageFilename": "station_classic_rock_planet.png", 
     "name": "Classic Rock Planet", 

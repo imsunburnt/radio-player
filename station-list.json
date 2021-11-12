@@ -14,6 +14,13 @@
     "stream": "http://stream.radioparadise.com/rock-320"
   }, 
   {
+    "drawable": "station_classic_rock_global", 
+    "imageFilename": "station_classic_rock_global.png", 
+    "name": "Classic Rock Global", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://us5.internet-radio.com:8166/stream"
+  }, 
+  {
     "drawable": "station_deep_nuggets", 
     "imageFilename": "station_deep_nuggets.png", 
     "name": "Deep Nuggets", 

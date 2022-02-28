@@ -25,7 +25,7 @@
     "imageFilename": "station_outlaw_radio.png", 
     "name": "Outlaw Radio", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://69.64.46.54:8000/listen.pls?sid=1"
+    "stream": "http://69.64.46.54:8000"
   }, 
   {
     "drawable": "station_classic_rock_planet", 

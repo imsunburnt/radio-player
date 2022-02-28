@@ -21,11 +21,12 @@
     "stream": "http://us5.internet-radio.com:8166/stream"
   }, 
   {
-    "drawable": "station_classic_rock_tampa_bay", 
-    "imageFilename": "station_classic_rock_tampa_bay.png", 
-    "name": "Classic Rock Tampa Bay", 
+    "drawable": "station_outlaw_radio", 
+    "imageFilename": "station_outlaw_radio.png", 
+    "name": "Outlaw Radio", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://us1.internet-radio.com:8195/stream"
+    "stream": "http://69.64.46.54:8000/listen.pls?sid=1
+    "
   }, 
   {
     "drawable": "station_classic_rock_planet", 

@@ -177,7 +177,7 @@
   {
     "drawable": "station_mix_105", 
     "imageFilename": "station_mix_105.png", 
-    "name": "MIX 105.1", 
+    "name": "Mix 105.1", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
     "stream": "http://149.255.59.162:8138/"
   }, 

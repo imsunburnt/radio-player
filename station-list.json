@@ -154,6 +154,27 @@
     "stream": "http://s3.yesstreaming.net:7062/stream"
   }, 
   {
+    "drawable": "station_kdrs", 
+    "imageFilename": "station_kdrs.png", 
+    "name": "KDRS", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "stream": "http://37.187.93.104:8071/"
+  }, 
+  {
+    "drawable": "station_voyager_radio", 
+    "imageFilename": "station_voyager_radio.png", 
+    "name": "Voyager Radio", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "stream": "http://nebula.shoutca.st:9300/"
+  }, 
+  {
+    "drawable": "station_tnt_radio", 
+    "imageFilename": "station_tnt_radio.png", 
+    "name": "TNT Radio", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "stream": "http://66.70.249.70:5531/"
+  }, 
+  {
     "drawable": "station_radio_paradise_mellow_mix", 
     "imageFilename": "station_radio_paradise_mellow_mix.jpg", 
     "name": "Radio Paradise Mello Mix", 

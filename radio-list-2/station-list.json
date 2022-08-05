@@ -7,6 +7,13 @@
     "stream": "http://198.178.123.20:10876"
   }, 
   {
+    "drawable": "station_radio_paradise", 
+    "imageFilename": "station_radio_paradise.png", 
+    "name": "Radio Paradise", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "stream": "http://stream-dc1.radioparadise.com/aac-320"
+  }, 
+  {
     "drawable": "station_radio_paradise_rock_mix", 
     "imageFilename": "station_radio_paradise_rock_mix.png", 
     "name": "Radio Paradise Rock Mix", 

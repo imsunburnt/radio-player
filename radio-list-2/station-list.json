@@ -11,7 +11,7 @@
     "imageFilename": "station_falcon_radio.png", 
     "name": "Falcon Radio", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://server-23.stream-server.nl:8926"
+    "stream": "http://149.202.149.143:8926"
   }, 
   {
     "drawable": "station_radio_paradise", 

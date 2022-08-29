@@ -58,7 +58,7 @@
   {
     "drawable": "station_magic_oldies_florida", 
     "imageFilename": "station_magic_oldies_florida.png", 
-    "name": "Magic Oldies 60's", 
+    "name": "Magic Oldies Florida", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
     "stream": "http://server.webnetradio.net:5282/stream"
   }, 

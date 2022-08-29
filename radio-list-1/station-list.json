@@ -18,14 +18,7 @@
     "imageFilename": "station_classic_rock_global.png", 
     "name": "Classic Rock Global", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://us5.internet-radio.com:8166/stream"
-  }, 
-  {
-    "drawable": "station_classic_rock_planet", 
-    "imageFilename": "station_classic_rock_planet.png", 
-    "name": "Classic Rock Planet", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://us5.internet-radio.com:8279/stream"
+    "stream": "http://stream.antenne.de:80/classic-rock-live"
   }, 
   {
     "drawable": "station_outlaw_radio", 
@@ -35,11 +28,11 @@
     "stream": "http://69.64.46.54:8000"
   }, 
   {
-    "drawable": "station_wlcy_fun_radio", 
-    "imageFilename": "station_wlcy_fun_radio.png", 
-    "name": "WLCY Fun Radio", 
+    "drawable": "station_classic_rock_planet", 
+    "imageFilename": "station_classic_rock_planet.png", 
+    "name": "Classic Rock Replay", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://us1.internet-radio.com:8122/stream"
+    "stream": "http://185.33.21.111:80/crock_128"
   }, 
   {
     "drawable": "station_deep_nuggets", 
@@ -65,9 +58,16 @@
   {
     "drawable": "station_magic_oldies_florida", 
     "imageFilename": "station_magic_oldies_florida.png", 
-    "name": "Magic Oldies Florida", 
+    "name": "Magic Oldies 60's", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://uk4.internet-radio.com:8004/stream"
+    "stream": "http://server.webnetradio.net:5282/stream"
+  }, 
+  {
+    "drawable": "station_magic_oldies_60s", 
+    "imageFilename": "station_magic_60s.png", 
+    "name": "Magic Oldies 60's", 
+    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "stream": "http://server.webnetradio.net:5218/stream"
   }, 
   {
     "drawable": "station_majestic_jukebox_radio", 
@@ -95,14 +95,14 @@
     "imageFilename": "station_classic_rock_florida.jpg", 
     "name": "Classic Rock Florida", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-classic-rock-florida.mp3", 
-    "stream": "http://198.58.98.83:8258/stream"
+    "stream": "http://server.webnetradio.net:5422/stream"
   }, 
   {
     "drawable": "station_classic_rock_hd", 
     "imageFilename": "station_classic_rock_hd.jpg", 
-    "name": "Classic Rock HD", 
+    "name": "Classic Rock 109", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-choice-classic-rock.mp3", 
-    "stream": "http://us5.internet-radio.com:8267/stream"
+    "stream": "http://144.217.79.175:10042/stream"
   }, 
   {
     "drawable": "station_magic_80s_radio", 
@@ -154,13 +154,6 @@
     "stream": "http://s3.yesstreaming.net:7062/stream"
   }, 
   {
-    "drawable": "station_kdrs", 
-    "imageFilename": "station_kdrs.png", 
-    "name": "KDRS", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://37.187.93.104:8071/"
-  }, 
-  {
     "drawable": "station_voyager_radio", 
     "imageFilename": "station_voyager_radio.png", 
     "name": "Voyager Radio", 
@@ -173,13 +166,6 @@
     "name": "TNT Radio", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
     "stream": "http://66.70.249.70:5531/"
-  }, 
-  {
-    "drawable": "station_mix_105", 
-    "imageFilename": "station_mix_105.png", 
-    "name": "Mix 105.1", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://149.255.59.162:8138/"
   }, 
   {
     "drawable": "station_radio_paradise_mellow_mix", 

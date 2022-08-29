@@ -28,8 +28,8 @@
     "stream": "http://69.64.46.54:8000"
   }, 
   {
-    "drawable": "station_classic_rock_planet", 
-    "imageFilename": "station_classic_rock_planet.png", 
+    "drawable": "station_classic_rock_replay", 
+    "imageFilename": "station_classic_rock_replay.png", 
     "name": "Classic Rock Replay", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
     "stream": "http://185.33.21.111:80/crock_128"
@@ -63,9 +63,9 @@
     "stream": "http://server.webnetradio.net:5282/stream"
   }, 
   {
-    "drawable": "station_magic_oldies_60s", 
+    "drawable": "station_magic_60s_radio", 
     "imageFilename": "station_magic_60s.png", 
-    "name": "Magic Oldies 60's", 
+    "name": "Magic 60's Radio", 
     "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
     "stream": "http://server.webnetradio.net:5218/stream"
   }, 

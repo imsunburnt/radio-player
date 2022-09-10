@@ -1,177 +1,127 @@
 [
   {
-    "drawable": "station_radio_paradise", 
-    "imageFilename": "station_radio_paradise.png", 
     "name": "Radio Paradise", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
+    "imageFilename": "station_radio_paradise.png", 
     "stream": "http://stream-dc1.radioparadise.com/aac-320"
   }, 
   {
-    "drawable": "station_radio_paradise_rock_mix", 
-    "imageFilename": "station_radio_paradise_rock_mix.png", 
-    "name": "Radio Paradise Rock Mix", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://stream.radioparadise.com/rock-320"
-  }, 
-  {
-    "drawable": "station_classic_rock_global", 
-    "imageFilename": "station_classic_rock_global.png", 
-    "name": "Classic Rock Global", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://stream.antenne.de:80/classic-rock-live"
-  }, 
-  {
-    "drawable": "station_outlaw_radio", 
-    "imageFilename": "station_outlaw_radio.png", 
-    "name": "Outlaw Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://69.64.46.54:8000"
-  }, 
-  {
-    "drawable": "station_classic_rock_replay", 
-    "imageFilename": "station_classic_rock_replay.png", 
-    "name": "Classic Rock Replay", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise.mp3", 
-    "stream": "http://185.33.21.111:80/crock_128"
-  }, 
-  {
-    "drawable": "station_deep_nuggets", 
-    "imageFilename": "station_deep_nuggets.png", 
-    "name": "Deep Nuggets", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://192.111.140.11:8181/stream"
-  }, 
-  {
-    "drawable": "station_birch_street_radio", 
-    "imageFilename": "station_birch_street_radio.jpg", 
-    "name": "Birch Street Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-birch-street-radio.mp3", 
-    "stream": "https://jenny.torontocast.com:8172/stream"
-  }, 
-  {
-    "drawable": "station_eight_radio", 
-    "imageFilename": "station_eight_radio.png", 
-    "name": "8 Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://8radiohq.serverroom.net:7532/"
-  }, 
-  {
-    "drawable": "station_magic_oldies_florida", 
-    "imageFilename": "station_magic_oldies_florida.png", 
-    "name": "Magic Oldies Florida", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
-    "stream": "http://server.webnetradio.net:5282/stream"
-  }, 
-  {
-    "drawable": "station_magic_60s_radio", 
-    "imageFilename": "station_magic_60s.png", 
     "name": "Magic 60's Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "imageFilename": "station_magic_60s.png", 
     "stream": "http://server.webnetradio.net:5218/stream"
   }, 
   {
-    "drawable": "station_majestic_jukebox_radio", 
-    "imageFilename": "station_majestic_jukebox_radio.png", 
+    "name": "Magic Oldies Florida", 
+    "imageFilename": "station_magic_oldies_florida.png", 
+    "stream": "http://server.webnetradio.net:5282/stream"
+  }, 
+  {
+    "name": "Radio Paradise Rock Mix", 
+    "imageFilename": "station_radio_paradise_rock_mix.png", 
+    "stream": "http://stream.radioparadise.com/rock-320"
+  }, 
+  {
+    "name": "Classic Rock Global", 
+    "imageFilename": "station_classic_rock_global.png", 
+    "stream": "http://stream.antenne.de:80/classic-rock-live"
+  }, 
+  {
+    "name": "Classic Rock Replay", 
+    "imageFilename": "station_classic_rock_replay.png", 
+    "stream": "http://185.33.21.111:80/crock_128"
+  }, 
+  {
+    "name": "Outlaw Radio", 
+    "imageFilename": "station_outlaw_radio.png", 
+    "stream": "http://69.64.46.54:8000"
+  }, 
+  {
+    "name": "Deep Nuggets", 
+    "imageFilename": "station_deep_nuggets.png", 
+    "stream": "http://192.111.140.11:8181/stream"
+  }, 
+  {
+    "name": "Birch Street Radio", 
+    "imageFilename": "station_birch_street_radio.jpg", 
+    "stream": "https://jenny.torontocast.com:8172/stream"
+  }, 
+  {
+    "name": "8 Radio", 
+    "imageFilename": "station_eight_radio.png", 
+    "stream": "http://8radiohq.serverroom.net:7532/"
+  }, 
+  {
     "name": "Majestic Jukebox Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "imageFilename": "station_majestic_jukebox_radio.png", 
     "stream": "http://uk3.internet-radio.com:8405/live"
   }, 
   {
-    "drawable": "station_motown_magic_oldies", 
-    "imageFilename": "station_motown_magic_oldies.png", 
     "name": "Motown Magic Oldies", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "imageFilename": "station_motown_magic_oldies.png", 
     "stream": "http://airspectrum.cdnstream1.com:8024/1302_192"
   }, 
   {
-    "drawable": "station_san_francisco_70s", 
-    "imageFilename": "station_san_francisco_70s.jpg", 
     "name": "San Fransisco 70s", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-san-fransico-70s.mp3", 
+    "imageFilename": "station_san_francisco_70s.jpg", 
     "stream": "http://198.178.123.17:10922"
   }, 
   {
-    "drawable": "station_classic_rock_florida", 
-    "imageFilename": "station_classic_rock_florida.jpg", 
     "name": "Classic Rock Florida", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-classic-rock-florida.mp3", 
+    "imageFilename": "station_classic_rock_florida.jpg", 
     "stream": "http://server.webnetradio.net:5422/stream"
   }, 
   {
-    "drawable": "station_classic_rock_hd", 
-    "imageFilename": "station_classic_rock_hd.jpg", 
     "name": "Classic Rock 109", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-choice-classic-rock.mp3", 
+    "imageFilename": "station_classic_rock_hd.jpg", 
     "stream": "http://144.217.79.175:10042/stream"
   }, 
   {
-    "drawable": "station_magic_80s_radio", 
-    "imageFilename": "station_magic_80s_radio.jpg", 
     "name": "Magic 80s Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-magic-80s-radio.mp3", 
+    "imageFilename": "station_magic_80s_radio.jpg", 
     "stream": "http://airspectrum.cdnstream1.com:8018/1606_192"
   }, 
   {
-    "drawable": "station_beatles_radio", 
-    "imageFilename": "station_beatles_radio.jpg", 
     "name": "Beatles Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-beatles-a-rama.mp3", 
+    "imageFilename": "station_beatles_radio.jpg", 
     "stream": "http://64.40.99.76:8000/"
   }, 
   {
-    "drawable": "station_beatles_a_rama", 
-    "imageFilename": "station_beatles_a_rama.jpg", 
     "name": "Beatles A Rama", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-beatles-a-rama.mp3", 
+    "imageFilename": "station_beatles_a_rama.jpg", 
     "stream": "http://149.56.185.82:8141/"
   }, 
   {
-    "drawable": "station_krush_nation", 
-    "imageFilename": "station_krush_nation.png", 
     "name": "Krush Nation", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-krush-nation.mp3", 
+    "imageFilename": "station_krush_nation.png", 
     "stream": "http://s2.yesstreaming.net:7183/stream"
   }, 
   {
-    "drawable": "station_caroline_flashback", 
-    "imageFilename": "station_caroline_flashback.jpg", 
     "name": "Radio Caroline Flashback", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-caroline-flashback.mp3", 
+    "imageFilename": "station_caroline_flashback.jpg", 
     "stream": "http://sc2.radiocaroline.net:10558"
   }, 
   {
-    "drawable": "station_angel_radio", 
-    "imageFilename": "station_angel_radio.png", 
     "name": "Angel Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-angel-radio.mp3", 
+    "imageFilename": "station_angel_radio.png", 
     "stream": "http://94.75.227.133:7030"
   }, 
   {
-    "drawable": "station_off_radio", 
-    "imageFilename": "station_off_radio.png", 
     "name": "OFF Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-off-radio.mp3", 
+    "imageFilename": "station_off_radio.png", 
     "stream": "http://s3.yesstreaming.net:7062/stream"
   }, 
   {
-    "drawable": "station_voyager_radio", 
-    "imageFilename": "station_voyager_radio.png", 
     "name": "Voyager Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "imageFilename": "station_voyager_radio.png", 
     "stream": "http://nebula.shoutca.st:9300/"
   }, 
   {
-    "drawable": "station_tnt_radio", 
-    "imageFilename": "station_tnt_radio.png", 
     "name": "TNT Radio", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/none.mp3", 
+    "imageFilename": "station_tnt_radio.png", 
     "stream": "http://66.70.249.70:5531/"
   }, 
   {
-    "drawable": "station_radio_paradise_mellow_mix", 
-    "imageFilename": "station_radio_paradise_mellow_mix.jpg", 
     "name": "Radio Paradise Mello Mix", 
-    "spoken-name-file": "/home/pi/mpd-jukebox/mp3/2-radio-paradise-mello-mix.mp3", 
+    "imageFilename": "station_radio_paradise_mellow_mix.jpg", 
     "stream": "https://stream.radioparadise.com/mellow-64"
   }
 ]

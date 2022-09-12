@@ -30,8 +30,8 @@
     "stream": "http://stream.radioparadise.com/rock-320"
   }, 
   {
-    "name": "Classic Rock Global", 
-    "imageFilename": "station_classic_rock_global.png", 
+    "name": "Antenne Bayern Radio", 
+    "imageFilename": "station_antenne_bayern.png", 
     "stream": "http://stream.antenne.de:80/classic-rock-live"
   }, 
   {

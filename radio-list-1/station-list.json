@@ -10,6 +10,16 @@
     "stream": "http://server.webnetradio.net:5218/stream"
   }, 
   {
+    "name": "24 7 60's Radio", 
+    "imageFilename": "station_24_7_60s.png", 
+    "stream": "http://31.132.6.142:4361/stream"
+  }, 
+  {
+    "name": "Time Machine Radio", 
+    "imageFilename": "station_time_machine_radio.webp", 
+    "stream": "http://192.211.51.158:5426/stream"
+  }, 
+  {
     "name": "Magic Oldies Florida", 
     "imageFilename": "station_magic_oldies_florida.png", 
     "stream": "http://server.webnetradio.net:5282/stream"
@@ -93,6 +103,11 @@
     "name": "Krush Nation", 
     "imageFilename": "station_krush_nation.png", 
     "stream": "http://s2.yesstreaming.net:7183/stream"
+  }, 
+  {
+    "name": "Radio Caroline Gold", 
+    "imageFilename": "station_radio_caroline_gold_319.png", 
+    "stream": "https://server-10.rcgoldserver.nl:8270/stream"
   }, 
   {
     "name": "Radio Caroline Flashback", 
